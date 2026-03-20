@@ -1,10 +1,7 @@
-streamlit==1.31.0
-requests==2.31.0
-pandas==2.2.0
-langchain==0.1.10
-langchain-google-genai==1.0.1
-langchain-experimental==0.0.52
-google-generativeai==0.4.1
-python-dotenv==1.0.0
-tabulate==0.10.0
-numpy==1.26.4  ← ADDED THIS LINE
+streamlit>=1.31.0
+requests>=2.31.0
+pandas>=2.1.0
+langchain>=0.1.10
+langchain-google-genai>=1.0.1
+google-generativeai>=0.4.1
+python-dotenv>=1.0.0
