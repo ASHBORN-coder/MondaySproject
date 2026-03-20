@@ -128,7 +128,7 @@ Users can:
 
 - **Frontend:** Streamlit
 - **Data Processing:** Pandas, NumPy
-- **LLM:** Google Gemini 1.5 Flash (via LangChain)
+- **LLM:** Google Gemini 2.5 Flash (via LangChain)
 - **API:** Monday.com GraphQL API
 
 ---
