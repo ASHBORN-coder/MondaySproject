@@ -18,7 +18,7 @@ class LLMCodeExecutor:
     
     def __init__(self, gemini_key: str):
         self.llm = ChatGoogleGenerativeAI(
-            model="gemini-1.5-flash",
+            model="gemini-2.5-flash",
             temperature=0,
             max_output_tokens=8192  # Increased from 4096 to prevent code cutoff
         )
