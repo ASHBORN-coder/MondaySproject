@@ -7,3 +7,4 @@ langchain-experimental==0.0.52
 google-generativeai==0.4.1
 python-dotenv==1.0.0
 tabulate==0.10.0
+numpy==1.26.4  ← ADDED THIS LINE
